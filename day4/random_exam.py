@@ -1,7 +1,7 @@
 # Random 함수
-#import random
+import random
 
-#print(random.choice(range(1,7))) #주사위
+print(random.choice(range(1,7))) #주사위
 
 
 # 간단한 lottery 프로그램 만들기

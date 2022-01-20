@@ -11,9 +11,9 @@ f.writelines(texts)
 # f.close()
 
 # 내용 추가 'a'
-# f = open('writefile.txt','a', encoding = 'utf-8')
-# f.write('내용 추가할게요.')
-# f.close()
+f = open('writefile.txt','a', encoding = 'utf-8')
+f.write('내용 추가할게요.')
+f.close()
 
 f = open ('writefile.txt', 'r', encoding= 'utf-8')
 

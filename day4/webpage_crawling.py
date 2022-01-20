@@ -1,8 +1,8 @@
 #웹페이지 긁어오기
-# from urllib.request import Request, urlopen
+from urllib.request import Request, urlopen
 
-# req = Request('https://www.naver.com') #네이버 웹페이지 요청
-# res = urlopen(req)
+req = Request('https://www.naver.com') #네이버 웹페이지 요청
+res = urlopen(req)
 
 # print(res.status)
 

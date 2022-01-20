@@ -1,10 +1,10 @@
 # 입력 테스트
-# a = input()
-# print(f'입력값은 {a}')
+a = input()
+print(f'입력값은 {a}')
 
-# number = int(input('수를 입력하세요 :'))
-# print(number * 3)
-# print(int(number * 3)) 이렇게 해도 됨
+number = int(input('수를 입력하세요 :'))
+print(number * 3)
+print(int(number * 3)) #이렇게 해도 됨
 
 # 입출력 같이
 
