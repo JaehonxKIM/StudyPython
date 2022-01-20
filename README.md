@@ -27,3 +27,6 @@
 - 파일입출력 FILE IO
 - 예외처리 EXCEPTION HANDLE
 - 디버깅 DEBUGING
+### 5일차
+- cx_oracle 라이브러리 활용
+- Oracle CRUD 코딩
