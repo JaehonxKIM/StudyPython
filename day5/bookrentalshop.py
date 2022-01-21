@@ -1,7 +1,6 @@
 # bookrentalshop.py
 # divtbl, membertbl
-from __future__ import division
-from ast import Delete
+
 import cx_Oracle as ora
 
 def myconn():
