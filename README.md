@@ -38,4 +38,12 @@
  - 멤버 변수, 멤버함수
  - 클래스 사용
  - 매직메서드(__init__, __str__ etc...)
+### 7일차
+- Jupyter ntotebook
+- Numpy
+ - Array_zero
+ - Randomdata sum
+ - picture_resize
+ - Pillow 이미지 분석
+ - 파일 복사 
 
